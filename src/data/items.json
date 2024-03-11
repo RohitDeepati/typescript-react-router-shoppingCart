@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "/imgs/banana.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Headphones",
+      "price": 49.99,
+      "imgUrl": "/imgs/headphones.jfif"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Maker",
+      "price": 89.95,
+      "imgUrl": "/imgs/coffemaker.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "price": 29.99,
+      "imgUrl": "/imgs/sunglasses.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Guitar",
+      "price": 399.99,
+      "imgUrl": "/imgs/guitar.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Backpack",
+      "price": 34.95,
+      "imgUrl": "/imgs/backpack.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Smartwatch",
+      "price": 159.99,
+      "imgUrl": "/imgs/smartwatch.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Desk Chair",
+      "price": 79.99,
+      "imgUrl": "/imgs/desk_chair.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bluetooth Speaker",
+      "price": 59.95,
+      "imgUrl": "/imgs/speaker.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "imgUrl": "/imgs/running_shoes.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Digital Camera",
+      "price": 299.99,
+      "imgUrl": "/imgs/digital_camera.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Microwave Oven",
+      "price": 129.95,
+      "imgUrl": "/imgs/microwave_oven.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Winter Jacket",
+      "price": 129.99,
+      "imgUrl": "/imgs/winter_jacket.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Desk Lamp",
+      "price": 24.99,
+      "imgUrl": "/imgs/desk_lamp.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Basketball",
+      "price": 19.99,
+      "imgUrl": "/imgs/basketball.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Treadmill",
+      "price": 799.99,
+      "imgUrl": "/imgs/treadmill.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Waffle Maker",
+      "price": 39.95,
+      "imgUrl": "/imgs/waffle_maker.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Leather Wallet",
+      "price": 29.99,
+      "imgUrl": "/imgs/leather_wallet.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Dumbbell Set",
+      "price": 49.99,
+      "imgUrl": "/imgs/dumbell_set.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Sunscreen",
+      "price": 9.99,
+      "imgUrl": "/imgs/sunscreen.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Candle Holder",
+      "price": 14.95,
+      "imgUrl": "/imgs/candle_holder.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Hiking Boots",
+      "price": 89.95,
+      "imgUrl": "/imgs/hiking_boots.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Vacuum Cleaner",
+      "price": 129.99,
+      "imgUrl": "/imgs/vacuum_cleaner.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Television",
+      "price": 499.99,
+      "imgUrl": "/imgs/television.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Digital Watch",
+      "price": 69.99,
+      "imgUrl": "/imgs/digital_watch.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Gaming Mouse",
+      "price": 39.99,
+      "imgUrl": "/imgs/gaming_mouse.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Frying Pan",
+      "price": 19.95,
+      "imgUrl": "/imgs/pan.jpg"
+    }
+  ] 
